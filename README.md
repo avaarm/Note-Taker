@@ -5,6 +5,7 @@
 
 ## Description 
 
+This project has allowed me to gain a better understanding of using Express as a back-end framework. As well as using routes to connect the server to the front end. 
 
 
 ## Table of Contents
@@ -36,7 +37,7 @@
 
 <!-- [Application Link](https://drive.google.com/file/d/1X1uUVhLb7KOW-qnKDFIz9N1mOHsrWt2Y/view) -->
 
-![Application Demo](Develop/Assets/Images/finisheddemo.gif)
+![Application Demo](public/assets/Note-Taker.gif)
 
 
 ## Installation
