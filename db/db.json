@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Eye Exam",
+    "text": "01/02/2020",
+    "id": 1
+  },
+  {
+    "title": "Split Cells from Culture",
+    "text": "02/02/2020",
+    "id": 2
+  },
+  {
+    "title": "Weekly Grocery Shopping",
+    "text": "Fruits, greens, herbs, and drinks",
+    "id": 3
+  },
+  {
+    "title": "Bills",
+    "text": "Rent, electricity, and refuse",
+    "id": 4
+  },
+  {
+    "title": "Picnic",
+    "text": "Need to purchase drinks and food for picnic",
+    "id": 5
+  },
+  {
+    "title": "Study Session ",
+    "text": "02/24 and 02/29 with classmates from 6-8pm",
+    "id": 6
+  },
+  {
+    "title": "Workout",
+    "text": "Sunday with friends for 2 hours. \nRun on Monday.",
+    "id": 7
+  }
+]
