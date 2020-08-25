@@ -14,10 +14,9 @@ This project has allowed me to gain a better understanding of using Express as a
 * [Demonstration](#demonstration)
 * [Application](#Application)
 * [Installation](#installation)
-<!-- * [Test](#test) -->
 * [Acknowledgements](#acknowledgements)
 * [Questions](#questions)
-* [Course Submission ](#course Submission )
+
 
 ## Technologies
 
